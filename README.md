@@ -47,7 +47,7 @@ Anthony, Araceli, Brenden, Jeremy
     - Anthony, pretty open, unless specified with group.
     - Araceli, class hours and after.
     - Brenden, works on fridays and sundays, available aside from those days.
-    - Jeremy,
+    - Jeremy, can respond every hour or two via slack 8-5 cst and available during class hours.
 2. What platforms will you use to communicate (ie. Slack, phone …)?
     - Slack, Remo.
 3. How often will you take breaks?
