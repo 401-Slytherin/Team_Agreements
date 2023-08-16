@@ -20,7 +20,7 @@ Anthony, Araceli, Brenden, Jeremy
     - Anthony, work on networking, strengthening and growing his network.
     - Araceli, getting more familiar with the language and becoming more technical with python.
     - Brenden, getting more confident with my code, and working on my problem-solving skills.
-    - Jeremy
+    - Jeremy, getting more confident in linking different parts of code together.
 
 4. Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
     - Frequent stand-ups, and figuring out what each person wants to accomplish for the day. Implementing a task
