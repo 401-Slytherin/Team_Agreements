@@ -10,7 +10,7 @@ Anthony, Araceli, Brenden, Jeremy
     - Anthony, Patience and chill, likes logic. Keen attention to detail and good leader. Flexible.
     - Araceli, Work well either in pairs or by herself, better with logic in a pair, learner, good with styling.
     - Brenden, Creative and likes to style, not great with logic, easy to work with, good with either being a leader or following.
-    - Jeremy
+    - Jeremy, Willing to deep dive on an overnighter on a whim. Core strengths being data structures and algorithm development.
 
 2. How can you best utilize these strengths in the execution of your project?
     - All of us will assume whatever position is necessary, and will communicate between each-other. This could be done through
