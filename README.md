@@ -87,3 +87,23 @@ Anthony, Araceli, Brenden, Jeremy
    End of the night/whenever necessary.
    - How will you communicate that it’s time to merge?
    Reach out to group members and show them your working feature.
+
+## Idea Pitch
+
+1. Summary of idea.
+   - An E-commerce web app tailored to selling and trading, trading cards
+
+2. What problem or pain point does it solve? a. Keep it high level without going into too much detail. (3-4 sentences is enough)
+   - This web app allows people to connect by allowing them to buy, sell, or trade various items of common interest. It
+   - also promotes a community of people with similar interests.
+
+3. Minimum Viable Product (MVP) definition.
+   Users are able to create an account to buy/sell/trade their cards(and other items). Will be able to have their
+   contact information such as email, phone number.
+
+   STRETCH:
+  - Include more item categories to buy/sell/trade like boardgames, figurines, etc.
+  - Allow connectivity to vendor sites
+  - Allowing a chat feature for users to communicate with one another
+  - Wishlist functionality
+  - API to determine item value
