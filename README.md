@@ -107,3 +107,17 @@ Anthony, Araceli, Brenden, Jeremy
   - Allowing a chat feature for users to communicate with one another
   - Wishlist functionality
   - API to determine item value
+
+## [Software Requirements](./requirements.md)
+
+## Domain Model
+
+![Domain Model](./screenshots/401fdm.png)
+
+## Wireframe
+
+![Wireframe](./screenshots/401fwf.png)
+
+## DB Schema
+
+![](./screenshots/401fdbs.png)
