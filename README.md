@@ -121,3 +121,11 @@ Anthony, Araceli, Brenden, Jeremy
 ## DB Schema
 
 ![](./screenshots/401fdbs.png)
+
+## User Stories
+
+1. As a user, I would like to be able to log in with an account so that I may be able to buy/sell/trade various collectible trading cards. If I do not have an account, I would also like to be able to sign up and create an account
+2. As a user, I would like to be able to freely browse the catalog of collectible trading cards. I do not wish to buy or sell, I just like to window shop. :)
+3. As a logged-in user, I would like to be able to list detailed information about the trading card(s) i am looking to buy, sell or trade.
+4. As a logged-in user, I would like to be able to see a list of items I am currently selling. I would like to have the ability to update or remove items from this list if I change my mind for any reason.
+5. ***STRETCH***: As a logged-in user, I would like to view a list of wishlist items in my profile page. I would also like to have the ability to remove these wishlist items if desired.
